@@ -3,6 +3,7 @@ import com.nt.beans.Utility;
 
 public class Test {
   public static void main(String[] args){
+    System.out.println("Main");
     Utility u = new Utility();
     System.out.println(u.getSysDate());
   }
