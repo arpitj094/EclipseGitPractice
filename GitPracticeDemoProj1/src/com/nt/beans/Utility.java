@@ -11,6 +11,5 @@ public class Utility {
 	public String printMessage() {
 		System.out.println("Hello");
 		return "Hello";
-
 	}
 }
