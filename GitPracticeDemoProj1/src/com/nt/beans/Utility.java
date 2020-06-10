@@ -7,9 +7,4 @@ public class Utility {
 	public Date getSysDate() {
 		return new Date();
 	}
-
-	public String printMessage() {
-		System.out.println("Hello");
-		return "Hello";
-	}
 }
