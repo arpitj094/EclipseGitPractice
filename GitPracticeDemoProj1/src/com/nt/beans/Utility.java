@@ -7,8 +7,4 @@ public class Utility {
 	public Date getSysDate() {
 		return new Date();
 	}
-	
-	public void m3() {
-		
-	}
 }
